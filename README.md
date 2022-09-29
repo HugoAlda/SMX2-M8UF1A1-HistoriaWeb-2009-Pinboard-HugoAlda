@@ -4,5 +4,5 @@
 
 ¿Que es un "_**Pinboard**_"?
 
-Un "_**pinboard**_" es un muro virtual en el cual los usuarios con acceso a ese muro pueden recopilar imagenes, enlaces, notas y paginas web para asi compartirlas entre todos.
+Un "_**pinboard**_" es un muro virtual en el cual los usuarios con acceso a ese muro pueden recopilar imagenes, enlaces, notas, noticias, paginas web y videos para asi compartirlas entre todos.
 
