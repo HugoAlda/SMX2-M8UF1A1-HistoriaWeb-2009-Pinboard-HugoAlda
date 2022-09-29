@@ -2,4 +2,4 @@
 
 PINBOARD
 
-¿Que es un _**Piboard**_?
+¿Que es un "_**Piboard**_"?
