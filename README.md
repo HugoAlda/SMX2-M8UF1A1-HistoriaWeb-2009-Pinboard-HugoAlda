@@ -10,6 +10,6 @@ _**Pinboard**_ es un sitio web de marcadores sociales desarrollado y administrad
 
 _**Pinboard
 
-[Sitio Web Pinboard](https://www.youtube.com/watch?v=R2FbCCCmV9U "Video Explicativo")
+[Sitio Web Pinboard](https://pinboard.in/)
 
 [Ejemplo sobre los pinboards en Opera](https://www.youtube.com/watch?v=R2FbCCCmV9U "Video Explicativo")
