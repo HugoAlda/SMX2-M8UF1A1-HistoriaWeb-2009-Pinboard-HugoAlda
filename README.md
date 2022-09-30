@@ -8,7 +8,7 @@ _**Pinboard**_ es un sitio web de marcadores sociales desarrollado y administrad
 
 ¿Para que sirve Pinboard?
 
-_**Pinboard
+_**Pinboard**_ sirve para guardarte cualquier video, pagina web o foto en un marcador o nota flotante, los quales se qudan guardados en tu usuario/login.
 
 [Sitio Web Pinboard](https://pinboard.in/)
 
