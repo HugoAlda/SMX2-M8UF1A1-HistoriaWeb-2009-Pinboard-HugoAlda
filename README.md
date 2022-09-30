@@ -2,10 +2,14 @@
 
    PINBOARD
 
-¿Que es un "_**Pinboard**_"?
+¿Que es _**Pinboard**_?
 
-Un "_**pinboard**_" es un muro virtual en el cual los usuarios con acceso a ese muro pueden recopilar imagenes, enlaces, notas, noticias, paginas web y videos para asi compartirlas entre todos.
+_**Pinboard**_ es un sitio web de marcadores sociales desarrollado y administrado por Maciej Cegłowski el cual se fundo en julio de 2009. Tiene un diseño simple y se enfoca en la administración personal de marcadores usando etiquetas para organizarlos.
 
-Otras opciones que tiene dicho pinboard pueden ser tanto reaccionar o contestar con emojis i mensajes como  responder directamente por privado anexando dicha foto enlace, nota, noticia, pagina web y video.
+¿Para que sirve Pinboard?
 
-[Video Explicativo sobre los pinboards en Opera](https://www.youtube.com/watch?v=R2FbCCCmV9U "Video Explicativo")
+_**Pinboard
+
+[Sitio Web Pinboard](https://www.youtube.com/watch?v=R2FbCCCmV9U "Video Explicativo")
+
+[Ejemplo sobre los pinboards en Opera](https://www.youtube.com/watch?v=R2FbCCCmV9U "Video Explicativo")
